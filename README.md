@@ -30,7 +30,7 @@ The **IPL 2025 Auction Dashboard** helps users understand:
 
 ## 📁 Files Included
 
-- `IPL dashboard.png`: High-resolution visual of the Power BI dashboard displaying auction insights.
+- "https://github.com/pamwarsneha/IPL-Dashboard/blob/main/IPL%20dashboard.png" : High-resolution visual of the Power BI dashboard displaying auction insights.
 
 ## 🗂️ Data Source
 
